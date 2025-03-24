@@ -28,10 +28,10 @@ This project analyses customer sentiments toward the Amazon Echo Dot 2 using a d
 4. Open the notebook in Jupyter or Colab and run all cells.
 
 ## Output Visualizations
-1.png
-2.png
-3.png
-4.png
-5.png
-6.png
+1.png,
+2.png,
+3.png,
+4.png,
+5.png,
+6.png,
 7.png

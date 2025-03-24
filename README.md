@@ -22,7 +22,7 @@ This project analyses customer sentiments toward the Amazon Echo Dot 2 using a d
 - Key improvement areas: Connectivity and speaker quality
 
 ## How to Run
-1. Clone this repository: `git clone https://github.com/yourusername/Sentiment-Analysis-Portfolio.git`
+1. Clone this repository: `git clone https://github.com/yourusername/Sentiment-Analysis.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Download the dataset from Kaggle and place it in the repository folder.
 4. Open the notebook in Jupyter or Colab and run all cells.
